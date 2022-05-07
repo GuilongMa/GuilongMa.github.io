@@ -1,0 +1,18 @@
+# main links
+main:
+  #- title: "Quick-Start Guide"
+  #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  - title: "Posts"
+    url: /year-archive/
+  - title: "Tags"
+    url: /tags/
+  - title: "Pages"
+    url: /page-archive/
+  - title: "Categories"
+    url: /categories/
+  - title: "Collections"
+    url: /collection-archive/
+  - title: "About"
+    url: /about/
+  - title: "Google Search"
+    url: https://google.com
